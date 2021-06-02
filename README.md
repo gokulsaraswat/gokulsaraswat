@@ -1,26 +1,16 @@
 
 # Programmer Gokul
-<img src="https://raw.githubusercontent.com/ProgrammerGaurav/programmergaurav/master/images/hello.gif" width="30">Hello World, I am Gokul.<br />
-I will be aFull Stack Developer.<br />
 I Love Coding.
 <br />
-<br />
 
-![github stats](https://github-readme-stats.vercel.app/api?username=gokulsaraswat&show_icons=true&title_color=fff&theme=radical&hide=prs)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gokulsaraswat&layout=compact&title_color=fff&theme=radical)
+### Hi there 
+<img src="https://github.com/gokulsaraswat/gokulsaraswat/blob/7302fd57c846c2843a89baabbd58ca45d1ae8df1/images/hello.gif" width="30">I am Gokul.<br />
 
-# My Work
--[Portfolio](https://gokulsaraswat.github.io)
-<br />
-
-![picture](https://github.com/gokulsaraswat/gokulsaraswat/blob/7302fd57c846c2843a89baabbd58ca45d1ae8df1/images/dino.gif)
-
-### Hi there 👋
 
 <!--
 **gokulsaraswat/gokulsaraswat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+👋Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -56,3 +46,18 @@ Here are some ideas to get you started:
 <a href="https://github.com/gokulsaraswat/gokulsaraswat/"><img src="https://camo.githubusercontent.com/5f5cadad3e06f6dd96c64d4025e219856ae6f923799bc8ea4e628013de25724a/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f6769746875622e737667" width="30" height="30"/></a>
   <a href="https://twitter.com/gokulsaraswat"><img src="https://camo.githubusercontent.com/c58e07fb34a45fd051183258b5860608dd86ac98dd151d0522e0575966082b88/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f747769747465722e737667" width="30" height="30"/></a>
 </div>
+
+
+
+<br />
+
+![github stats](https://github-readme-stats.vercel.app/api?username=gokulsaraswat&show_icons=true&title_color=fff&theme=radical&hide=prs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gokulsaraswat&layout=compact&title_color=fff&theme=radical)
+
+
+# My Work
+-[Portfolio](https://gokulsaraswat.github.io)
+<br />
+
+![picture](https://github.com/gokulsaraswat/gokulsaraswat/blob/7302fd57c846c2843a89baabbd58ca45d1ae8df1/images/dino.gif)
+
