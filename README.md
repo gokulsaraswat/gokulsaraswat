@@ -1,12 +1,8 @@
 
 # Programmer Gokul
-I Love Coding.
 <br />
-
 ### Hi there 
-<img src="https://github.com/gokulsaraswat/gokulsaraswat/blob/7302fd57c846c2843a89baabbd58ca45d1ae8df1/images/hello.gif" width="30">I am Gokul.<br />
-
-
+<img src="https://github.com/gokulsaraswat/gokulsaraswat/blob/7302fd57c846c2843a89baabbd58ca45d1ae8df1/images/hello.gif" width="30">I am Gokul.<br />I Love Coding.
 <!--
 **gokulsaraswat/gokulsaraswat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
