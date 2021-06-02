@@ -10,10 +10,10 @@ I Love Coding.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gokulsaraswat&layout=compact&title_color=fff&theme=radical)
 
 # My Work
--[Portfolio](https://github.gokulsaraswat.io)
+-[Portfolio](https://gokulsaraswat.github.io)
 <br />
 
-![picture](https://raw.githubusercontent.com/gokulsaraswat/gokulsaraswat/master/images/dino.gif)
+![picture](https://github.com/gokulsaraswat/gokulsaraswat/blob/7302fd57c846c2843a89baabbd58ca45d1ae8df1/images/dino.gif)
 
 ### Hi there 👋
 
