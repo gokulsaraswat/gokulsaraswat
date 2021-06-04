@@ -1,8 +1,16 @@
 
 # Programmer Gokul
+
+<p><img align="center" src="https://github.com/ZoeDreams/zoedreams/blob/master/banner.png" alt=""/></p>
+
+<h1 align="center">Hi 
+<img src="https://github.com/gokulsaraswat/gokulsaraswat/blob/7302fd57c846c2843a89baabbd58ca45d1ae8df1/images/hello.gif" width="30">, I'm <a  href="https://github.com/gokulsaraswat/gokulsaraswat/blob/master/SKILLS.md">Gokul Saraswat</a>  
+  <a href="https://dev.to/gokulsaraswat">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="☮️✝️☪️🕉☸️✡️☯️ 's DEV Profile" height="30" width="30">
+</a></h1>
+
 <br />
-### Hi there 
-<img src="https://github.com/gokulsaraswat/gokulsaraswat/blob/7302fd57c846c2843a89baabbd58ca45d1ae8df1/images/hello.gif" width="30">I am Gokul.<br />I Love Coding.
+<br />I Love Coding.
 <!--
 **gokulsaraswat/gokulsaraswat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -36,19 +44,25 @@
 </div>
 
 ### Connect With Me :
-<hr size="1">
-<div style="display: flex; text-align-last: -webkit-center;">
-<a href="https://www.linkedin.com/in/gokulsaraswat/"><img src="https://camo.githubusercontent.com/d659d2bac00c01b42bffbae84bdc121e828b8fecd5b4949ffa2575f5d9e4a371/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f6c696e6b6564696e2e737667" width="30" height="30"/></a>
-<a href="https://github.com/gokulsaraswat/gokulsaraswat/"><img src="https://camo.githubusercontent.com/5f5cadad3e06f6dd96c64d4025e219856ae6f923799bc8ea4e628013de25724a/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f6769746875622e737667" width="30" height="30"/></a>
-  <a href="https://twitter.com/gokulsaraswat"><img src="https://camo.githubusercontent.com/c58e07fb34a45fd051183258b5860608dd86ac98dd151d0522e0575966082b88/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f747769747465722e737667" width="30" height="30"/></a>
-</div>
-
-
-
 <br />
 
+
+<hr size="1">
+<p align="center">
+<a href="https://github.com/gokulsaraswat" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="30" width="30" /></a>
+  <a href="https://github.com/gokulsaraswat-io" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gitlab.svg" alt="dreamscale" height="30" width="30" /></a>
+  <a href="https://www.youtube.com/user/gokulsaraswat" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="bat country" height="30" width="30" /></a>
+  <a href="https://dev.to/gokulsaraswat" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="dev.to" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/gokulsaraswat-348508/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="30" /></a>
+<a href="https://twitter.com/gokulsaraswat"><img align="center" src="https://camo.githubusercontent.com/c58e07fb34a45fd051183258b5860608dd86ac98dd151d0522e0575966082b88/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f747769747465722e737667" width="30" height="30"/></a><hr/>
+  
+</div>
+</p>
+
+
+### Github Stats
 ![github stats](https://github-readme-stats.vercel.app/api?username=gokulsaraswat&show_icons=true&title_color=fff&theme=radical&hide=prs)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gokulsaraswat&layout=compact&title_color=fff&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gokulsaraswat&layout=compact)
 
 
 # My Work
@@ -56,4 +70,10 @@
 <br />
 
 ![picture](https://github.com/gokulsaraswat/gokulsaraswat/blob/7302fd57c846c2843a89baabbd58ca45d1ae8df1/images/dino.gif)
+
+
+
+<hr/>
+
+<p align="center"><img src="https://profile-counter.glitch.me/gokulsaraswat/count.svg" alt=""/></p>
 
