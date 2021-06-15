@@ -81,3 +81,9 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gokulsaraswat&label=Profile%20views&color=0e75b6&style=flat" alt="gokulsaraswat" /> </p>
  
  <hr/>
+ 
+![picture](https://github.com/gokulsaraswat/gokulsaraswat/blob/7302fd57c846c2843a89baabbd58ca45d1ae8df1/images/source.gif)
+
+![picture](https://github.com/gokulsaraswat/gokulsaraswat/blob/7302fd57c846c2843a89baabbd58ca45d1ae8df1/images/giphy.webp)
+
+![picture](https://github.com/gokulsaraswat/gokulsaraswat/blob/7302fd57c846c2843a89baabbd58ca45d1ae8df1/images/giphy-downsized-large.gif)
