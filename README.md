@@ -6,12 +6,12 @@
 <img src="https://github.com/gokulsaraswat/gokulsaraswat/blob/7302fd57c846c2843a89baabbd58ca45d1ae8df1/images/hello.gif" width="30">, I'm <a  href="https://github.com/gokulsaraswat/gokulsaraswat/blob/master/SKILLS.md">Gokul Saraswat</a>  
   <a href="https://dev.to/gokulsaraswat"> <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="☮️✝️☪️🕉☸️✡️☯️ 's DEV Profile" height="30" width="30">
 </a>
-    
-![picture](https://github.com/gokulsaraswat/gokulsaraswat/blob/main/images/giphy-downsized-large.gif)
+  <p align="" display="flex">
+  <img src="https://github.com/gokulsaraswat/gokulsaraswat/blob/main/images/giphy-downsized-large.gif" />
+ </p>
+
 
    </h1>
-
-<br />
 <br />I Love Coding.
 <!--
 **gokulsaraswat/gokulsaraswat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -84,7 +84,7 @@
  
  <hr/>
  <p align="">
-  <img src="https://raw.githubusercontent.com/gokulsaraswat/gokulsaraswat/main/images/giphy.webp?token=APCHCQMQGPTCTW6OQ4GKKCDAZAHCA" alt="animated" />
+  <img src="https://github.com/gokulsaraswat/gokulsaraswat/blob/main/images/giggy.gif" alt="animated" />
    <img src="https://github.com/gokulsaraswat/gokulsaraswat/blob/main/images/source.gif" alt="animated" />
 </p>
 
