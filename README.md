@@ -1,13 +1,15 @@
 
 # Programmer Gokul
 
-<p><img align="center" src="https://github.com/ZoeDreams/zoedreams/blob/master/banner.png" alt=""/></p>
 
 <h1 align="center">Hi 
 <img src="https://github.com/gokulsaraswat/gokulsaraswat/blob/7302fd57c846c2843a89baabbd58ca45d1ae8df1/images/hello.gif" width="30">, I'm <a  href="https://github.com/gokulsaraswat/gokulsaraswat/blob/master/SKILLS.md">Gokul Saraswat</a>  
-  <a href="https://dev.to/gokulsaraswat">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="☮️✝️☪️🕉☸️✡️☯️ 's DEV Profile" height="30" width="30">
-</a></h1>
+  <a href="https://dev.to/gokulsaraswat"> <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="☮️✝️☪️🕉☸️✡️☯️ 's DEV Profile" height="30" width="30">
+</a>
+    
+![picture](https://github.com/gokulsaraswat/gokulsaraswat/blob/main/images/giphy-downsized-large.gif)
+
+   </h1>
 
 <br />
 <br />I Love Coding.
@@ -81,9 +83,10 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gokulsaraswat&label=Profile%20views&color=0e75b6&style=flat" alt="gokulsaraswat" /> </p>
  
  <hr/>
- 
-![picture](https://github.com/gokulsaraswat/gokulsaraswat/blob/7302fd57c846c2843a89baabbd58ca45d1ae8df1/images/source.gif)
+ <p align="">
+  <img src="https://raw.githubusercontent.com/gokulsaraswat/gokulsaraswat/main/images/giphy.webp?token=APCHCQMQGPTCTW6OQ4GKKCDAZAHCA" alt="animated" />
+   <img src="https://github.com/gokulsaraswat/gokulsaraswat/blob/main/images/source.gif" alt="animated" />
+</p>
 
-![picture](https://github.com/gokulsaraswat/gokulsaraswat/blob/7302fd57c846c2843a89baabbd58ca45d1ae8df1/images/giphy.webp)
 
-![picture](https://github.com/gokulsaraswat/gokulsaraswat/blob/7302fd57c846c2843a89baabbd58ca45d1ae8df1/images/giphy-downsized-large.gif)
+ <p><img align="center" src="https://github.com/ZoeDreams/zoedreams/blob/master/banner.png" alt=""/></p>
