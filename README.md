@@ -27,17 +27,22 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
 ### I'm Gokul Saraswat  ✍️
 
 <!--
 **gokulsaraswat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-👨‍🎓I am Gokul Saraswat, currently pursuing a B.E. from BMS Institute of Technology and Management.<br>
+<!-- 👨‍🎓I am Gokul Saraswat, currently pursuing a B.E. from BMS Institute of Technology and Management.<br>
 💻I am a Beginner in  frontend developer as well as an 📱UI enthusiast.<br>
 ⚒️ Currently Brushing up my skills on Data Structure and Algorithms.<br>
 📫 Email me at: gokulsaraswat07@gmail.com<br>
-⚡ Fun fact:  I also post my Nature Photograhs on Instagram - <a href="https://www.instagram.com/gokulsaraswat/">@gokulsaraswat</a>
+⚡ Fun fact:  I also post my Nature Photograhs on Instagram - <a href="https://www.instagram.com/gokulsaraswat/">@gokulsaraswat</a> -->
 
+<img align="right" src="https://raw.githubusercontent.com/kaydee0502/kaydee0502/v2/code.gif" width="40%"/>
+
+> Computer enthusiast, logical thinker and believes in teamwork, I am an IT student who keeps embracing his skills, Currently learning about Cloud Computing, Deep Learning, Docker, CI/CD Pipelines and APIs.
 
 ### </> Languages & 🛠 Tools I work upon :
 <hr>
@@ -68,7 +73,10 @@
 
 
 ### Github Stats
-![github stats](https://github-readme-stats.vercel.app/api?username=gokulsaraswat&show_icons=true&title_color=fff&theme=radical&hide=prs)![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Aaliya7516)
+<!-- [![KayDee's github stats](https://github-readme-stats.vercel.app/api?username=kaydee0502&count_private=true&show_icons=true&theme=cobalt)](https://github.com/kaydee0502/github-readme-stats) -->
+
+<img src="https://raw.githubusercontent.com/gokulsaraswat/gokulsaraswat/v2/profile-summary-card-output/default/0-profile-details.svg" width = "55%" align="left">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gokulsaraswat&" alt="gokulsaraswat" align ="right" width = "40%" height = "-10%" />
 
 
 # My Work
