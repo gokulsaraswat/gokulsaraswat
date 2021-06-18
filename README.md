@@ -74,8 +74,7 @@
 
 ### Github Stats
 <!-- [![KayDee's github stats](https://github-readme-stats.vercel.app/api?username=kaydee0502&count_private=true&show_icons=true&theme=cobalt)](https://github.com/kaydee0502/github-readme-stats) -->
-
-<img src="https://raw.githubusercontent.com/gokulsaraswat/gokulsaraswat/v2/profile-summary-card-output/default/0-profile-details.svg" width = "55%" align="left">
+<img src="https://raw.githubusercontent.com/kaydee0502/kaydee0502/v2/profile-summary-card-output/default/0-profile-details.svg" width = "55%" align="left">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=gokulsaraswat&" alt="gokulsaraswat" align ="right" width = "40%" height = "-10%" />
 
 
@@ -83,7 +82,7 @@
 -[Portfolio](https://gokulsaraswat.github.io)
 <br />
 
-![picture](https://github.com/gokulsaraswat/gokulsaraswat/blob/7302fd57c846c2843a89baabbd58ca45d1ae8df1/images/dino.gif)
+![picture](https://github.com/kaydee0502/kaydee0502t/blob/7302fd57c846c2843a89baabbd58ca45d1ae8df1/images/dino.gif)
 
 <hr/>
 
