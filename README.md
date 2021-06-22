@@ -95,7 +95,7 @@
 
 
 ### Github Stats
-<!-- [![KayDee's github stats](https://github-readme-stats.vercel.app/api?username=gokulsaraswat&count_private=true&show_icons=true&theme=cobalt)](https://github.com/gokulsaras/github-readme-stats) -->
+<!-- [![gokulsaraswat github stats](https://github-readme-stats.vercel.app/api?username=gokulsaraswat&count_private=true&show_icons=true&theme=cobalt)](https://github.com/gokulsaraswat/github-readme-stats) -->
 <img src="https://raw.githubusercontent.com/kaydee0502/kaydee0502/v2/profile-summary-card-output/default/0-profile-details.svg" width = "55%" align="left">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=gokulsaraswat&" alt="gokulsaraswat" align ="right" width = "40%" height = "-10%" />
 
