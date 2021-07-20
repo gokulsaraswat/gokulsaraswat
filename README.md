@@ -30,10 +30,10 @@
 <!--   <img src="https://github.com/gokulsaraswat/gokulsaraswat/blob/main/images/giphy-downsized-large.gif" /> -->
  </p>
 <h3 align="center">A passionate frontend developer from India</h3>
-
+<p align="center">Maybe I Love Coding 👽</p>
 
    </h1>
-<br />I Love Coding.
+
 <!--
 **gokulsaraswat/gokulsaraswat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
