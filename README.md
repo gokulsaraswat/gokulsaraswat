@@ -141,8 +141,12 @@
 
 # My Work
  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gokulsaraswat&" alt="gokulsaraswat" align ="left" width = "45%" height = "-10%" />
- <p><img align="center" src="https://github.com/ZoeDreams/zoedreams/blob/master/banner.png" alt=""  align ="right" width = "45%" height = ""/></p>
+<p align="center">
+<a href="https://github.com/abhishekchauhan15">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=abhishekchauhan15&show_icons=true&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abhishekchauhan15&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
  
  
 <!-- [![gokulsaraswat github stats](https://github-readme-stats.vercel.app/api?username=gokulsaraswat&count_private=true&show_icons=true&theme=cobalt)](https://github.com/gokulsaraswat/github-readme-stats) -->
@@ -203,3 +207,7 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/gokuls"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buy me a coffee" /></a></p><br><br>
+
+
+
+ <p><img align="center" src="https://github.com/ZoeDreams/zoedreams/blob/master/banner.png" alt=""  align ="right" width = "100%" height = ""/></p>
