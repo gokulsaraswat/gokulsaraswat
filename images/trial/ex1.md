@@ -1,5 +1,10 @@
 ![Metrics](https://metrics.lecoq.io/gokulsaraswat?template=classic&isocalendar=1&introduction=1&followup=1&lines=1&tweets=1&isocalendar.duration=full-year&introduction.title=true&followup.sections=repositories&tweets.attachments=true&tweets.limit=3&tweets.user=gokulsaraswat&config.timezone=Asia%2FCalcutta)
 
+[<img align="left" width="400" alt="🦑" src="https://github.com/gokulsaraswat/gokulsaraswat/blob/master/metrics.svg">](https://github.com/gokulsaraswat/metrics)
+[<img align="right" width="150" alt="🦑" src="https://count.getloli.com/get/@:gokulsaraswat?theme=rule34">](https://www.youtube.com)
+[<img align="right" width="400" alt="🦑" src="https://github.com/gokulsaraswat/gokulsaraswat/blob/master/metrics.personal.anilist.svg">](https://github.com/gokulsaraswat/metrics)
+
+<!-- [![](https://user-images.githubusercontent.com/22963968/114021347-e3c48b80-9870-11eb-8bc8-998bf39b4d0d.png)](#) -->
 [Details](https://metrics.lecoq.io/about/gokulsaraswat)
 
 
