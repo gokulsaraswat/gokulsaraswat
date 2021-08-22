@@ -1,3 +1,5 @@
+<!-- <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=nolimits4web&skills=Vue,C%2B%2B,C%23,SCSS,Svelte&width=820"/> -->
+<!-- ![Skills chart](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=Gokul_Saraswat?skills=JavaScript,Python?bg=#ff0&show-other-skills=true) -->
 <!-- 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gokulsaraswat&label=Profile%20views&color=0e75b6&style=flat" alt="gokulsaraswat" /> </p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gokulsaraswat" alt="a" /></a> </p>
@@ -157,6 +159,7 @@
 <hr/>
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=gokulsaraswat)  
+![Skills chart](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=gokulsaraswat)
 
 <hr/>
 
