@@ -78,7 +78,7 @@
 📫 Email me at: gokulsaraswat07@gmail.com<br>
 ⚡ Fun fact:  I also post my Nature Photograhs on Instagram - <a href="https://www.instagram.com/gokulsaraswat/">@gokulsaraswat</a> -->
 
-<img align="right" src="https://raw.githubusercontent.com/kaydee0502/kaydee0502/v2/code.gif" width="40%"/>
+<img align="right" src="https://raw.githubusercontent.com/gokulsaraswat/gokulsaraswat/v2/code.gif" width="40%"/>
 
 > Computer enthusiast, logical thinker and believes in teamwork, I am an IT student who keeps embracing his skills, Currently learning about Cloud Computing, Deep Learning, Docker, CI/CD Pipelines and APIs.
 
