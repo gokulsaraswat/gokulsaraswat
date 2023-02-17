@@ -17,7 +17,7 @@
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=gokulsaraswat&layout=compact" alt="gokulsaraswat" /></p>
 
  -->
-# Gokul
+<!-- # Gokul's Github -->
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">, I'm <a  href="https://github.com/gokulsaraswat/gokulsaraswat/blob/master/SKILLS.md">Gokul Saraswat</a>  
   <a href="https://dev.to/gokulsaraswat"> <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="☮️✝️☪️🕉☸️✡️☯️ 's DEV Profile" height="30" width="30">
 </a>
