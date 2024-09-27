@@ -54,7 +54,7 @@
    
    ## 🔻 : About Me 
 <a href="https://twitter.com/gokulsaraswat" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter" align="right"></a><a href="https://www.linkedin.com/in/gokul-saraswat/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
-👩‍🎓 Hey! I'm Gokul, a 22 year old software engineer at [**Nothing**](https://github.com/nothing) working out of Bangloore, India. 
+👩‍🎓 Hey! I'm Gokul, a 22 year old software engineer at [**Nothing**](https://github.com/nothing) working out of Banglore, India. 
 
 :octocat: I have a soft spot for technology and communities 💖 I am a [**GitHub Campus Expert**](https://githubcampus.expert/gokulsaraswat/) and also a part of [**GitHub Education Stream Team**](https://github.blog/2021-03-25-introducing-the-github-education-stream-team/) :octocat:! 
 
