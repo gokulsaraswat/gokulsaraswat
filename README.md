@@ -170,7 +170,6 @@ I enjoy designing backend services that are easy to consume, observable in produ
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=gokulsaraswat&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub stats" />
   <img width="49%" src="https://streak-stats.demolab.com?user=gokulsaraswat&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
 </p>
 
