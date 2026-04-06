@@ -4,11 +4,18 @@
   <img src="./banner.png" alt="Gokul Saraswat banner" width="100%" />
 </div>
 
-<h1 align="center">Hey, I'm Gokul Saraswat 👋</h1>
-<h3 align="center">Java Backend Engineer • Banking Microservices • REST APIs • Production Reliability</h3>
+<h1 align="center">Gokul Saraswat</h1>
+<h3 align="center">Backend Engineer • Java • Spring Boot • Oracle SQL • Kafka • Production Reliability</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=900&lines=Building+enterprise-grade+banking+systems+with+Java;Spring+Boot+%7C+Oracle+SQL+%7C+Kafka+%7C+WebLogic;Turning+complex+workflows+into+clean+reliable+APIs" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&pause=1200&center=true&vCenter=true&width=1000&color=58A6FF&lines=Building+backend+systems+that+stay+calm+in+production;Java+%7C+Spring+Boot+%7C+Oracle+SQL+%7C+Kafka+%7C+WebLogic;Microservices%2C+RCA%2C+Performance+Tuning%2C+Distributed+Workflows;Enterprise+banking+engineer+with+a+problem-solving+mindset" alt="Typing intro" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Backend%20Systems-1F6FEB?style=for-the-badge" alt="Backend Systems" />
+  <img src="https://img.shields.io/badge/Domain-Banking%20Platforms-8250DF?style=for-the-badge" alt="Banking Platforms" />
+  <img src="https://img.shields.io/badge/Strength-Production%20Reliability-238636?style=for-the-badge" alt="Production Reliability" />
+  <img src="https://img.shields.io/badge/Practice-DSA%20%26%20Problem%20Solving-F85149?style=for-the-badge" alt="Problem Solving" />
 </p>
 
 <p align="center">
@@ -29,88 +36,126 @@
   <a href="https://dev.to/gokulsaraswat">
     <img src="https://img.shields.io/badge/Dev.to-Blogs-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" />
   </a>
+  <a href="https://www.gokulsaraswat.me">
+    <img src="https://img.shields.io/badge/Portfolio-Website-FF7139?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Portfolio" />
+  </a>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I'm a Java Backend Engineer based in Bangalore, India, currently building enterprise-grade banking systems at **Oracle Financial Services Software**. I enjoy designing reliable microservices, shaping API-first workflows, solving deep production issues, and turning complex reporting flows into clean backend platforms.
+I'm a Java Backend Engineer based in Bangalore, currently building enterprise-grade banking systems at **Oracle Financial Services Software**.
 
-- 💼 Associate Developer at **Oracle Financial Services Software**
-- 🧠 Strong in Java 8+, Oracle SQL, PL/SQL, Spring Boot, WebLogic, Apache Kafka, SOAP/REST APIs
-- 🔍 Comfortable with RCA, log analysis, production support, release coordination, and performance tuning
-- 🧩 I enjoy DSA, backend architecture, and making systems more predictable in production
+I enjoy designing backend services that are easy to consume, observable in production, and reliable under pressure. My work sits at the intersection of **microservices**, **API integration**, **database-heavy workflows**, **production debugging**, and **release ownership**.
 
-> I like building backend systems that stay simple for users and boring in production.
+> I like systems that stay simple for users, predictable for teams, and boring in production.
 
 ---
 
-## 🔥 Impact Snapshot
+## 🧠 Engineering Snapshot
 
-- Built **10+ REST APIs** to improve system integration and backend standardization
-- Solved **40+ production RCAs** while helping maintain **98% system uptime**
-- Executed **1 year of EOD transaction migration** with **99.9% uptime** and **zero data loss**
-- Delivered configurable reporting workflows that generate **PDF/Excel outputs** through backend services
-- Solved **500+ coding problems** across major platforms
-- Achieved **3★ on CodeChef** with a max rating of **1414**
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### What I bring
+- Backend-first engineering mindset
+- Java 8+, Spring Boot, Oracle SQL, PL/SQL
+- REST / SOAP integrations and reporting pipelines
+- Production support, RCA, log analysis, and debugging
+- Performance tuning across enterprise workflows
+- Strong DSA and problem-solving foundation
+
+</td>
+<td width="50%" valign="top">
+
+### Why this profile stands out
+- **10+ REST APIs** delivered
+- **40+ production RCAs** handled
+- **98% system uptime** supported
+- **99.9% migration uptime** with zero data loss
+- **500+ coding problems** solved
+- **3★ CodeChef** (Max Rating: 1414)
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🧰 Tech Stack
+## 🛠️ Tech Arsenal
 
-### Backend & APIs
-`Java 8+` `Spring Boot` `Microservices` `REST APIs` `SOAP APIs` `Oracle RAD`
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,python,cpp,docker,kubernetes,gcp,git,linux&perline=9" alt="Skill Icons" />
+</p>
 
-### Data, Messaging & Reporting
-`Oracle SQL` `PL/SQL` `Apache Kafka` `Oracle BI Publisher (BIP)` `Data Migration`
+### Backend, Data & APIs
+`Java 8+` `Spring Boot` `Microservices` `REST APIs` `SOAP APIs` `Oracle SQL` `PL/SQL`
 
-### Enterprise & Domain
-`WebLogic` `Oracle FLEXCUBE` `OBX` `OJET` `Banking Workflows`
+### Messaging, Reporting & Enterprise Tools
+`Apache Kafka` `Oracle BI Publisher (BIP)` `WebLogic` `Oracle RAD` `OBX` `OJET` `Oracle FLEXCUBE`
 
-### Cloud, DevOps & Tools
-`Docker` `Kubernetes` `GCP` `Flyway` `Git` `Linux` `Grafana` `Postman`
+### DevOps & Delivery
+`Docker` `Kubernetes` `GCP` `Flyway` `Grafana` `Postman` `Linux` `Git`
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Java-8%2B-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-Microservices-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/Oracle-SQL%20%26%20PL%2FSQL-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle SQL" />
   <img src="https://img.shields.io/badge/Apache%20Kafka-Event%20Driven-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Apache Kafka" />
   <img src="https://img.shields.io/badge/WebLogic-Enterprise%20Apps-C74634?style=flat-square&logo=oracle&logoColor=white" alt="WebLogic" />
-  <img src="https://img.shields.io/badge/Docker-Containers-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Oracle%20BIP-Reporting%20Pipelines-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle BIP" />
   <img src="https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/GCP-Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="GCP" />
+  <img src="https://img.shields.io/badge/Grafana-Observability-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana" />
 </p>
 
 ---
 
-## 🌱 Current Focus
+## ⚙️ Engineering Focus
 
-- Designing cleaner backend modules for complex banking workflows
-- Improving reliability, observability, and release confidence in production systems
-- Going deeper into scalable microservices, event-driven architecture, and backend performance
+- Designing clean backend modules for complex business workflows
+- Building API-first integrations that reduce friction across teams
+- Improving reliability, observability, and release confidence in production
+- Going deeper into distributed systems, scalable microservices, and system design
+- Writing code that is easier to maintain, debug, and operate over time
 
 ---
 
-## 🏗️ Featured Work
+## 🔥 Featured Work
 
-### Report Microservice for Banking Workflows
-- Designed a reporting service that extracts and aggregates complex BIP data using SQL
-- Delivered Base64-encoded PDF and Excel outputs through configurable REST APIs
-- Integrated reporting flows into Oracle Banking Microservices using OBX OJET virtual pages
+### 1) Report Microservice for Enterprise Banking
+**Professional Work · Enterprise Code**
 
-### Real-Time Scheduler
-- Built a Java-based priority scheduler using multi-threading and a Priority Blocking Queue
-- Managed up to **1000 concurrent tasks** with preemptive scheduling
-- Reached **50 tasks/second** throughput while maintaining **100% deadline adherence**
+- Designed a report microservice that extracts and aggregates complex Oracle BIP data using SQL
+- Delivered **configurable REST APIs** that return **Base64-encoded PDF / Excel outputs**
+- Integrated reporting modules as **virtual pages** inside Oracle Banking Microservices using **OBX OJET**
+- Helped shape bank-specific reporting flows with dynamic menu hierarchies and cleaner backend ownership
+
+### 2) Real-Time Scheduler
+**Personal Project · Java · Multithreading**
+
+- Built a priority-based preemptive scheduler using Java multithreading and a **Priority Blocking Queue**
+- Designed the system to manage **up to 1000 concurrent tasks**
+- Reached **50 tasks / second** throughput while maintaining **100% deadline adherence**
+- Includes a richer developer experience with **live logs**, **performance metrics**, and **Gantt chart visualization**
 - Repository: [Real-Time-Schedular](https://github.com/gokulsaraswat/Real-Time-Schedular)
 
+### 3) Production Reliability & Migration Ownership
+**High-pressure Engineering Work**
+
+- Conducted **40+ Root Cause Analyses** across production issues
+- Supported systems at **98% uptime**
+- Executed **1 year of EOD historical transaction migration**
+- Maintained **99.9% uptime** during migration with **zero data loss**
+
 ---
 
-## 🏅 Achievements & Certifications
+## 🏆 Problem Solving & Certifications
 
-- **3-Star CodeChef** programmer
+### Competitive Programming
+- **3-Star Coder** at CodeChef
 - **500+ problems solved** across LeetCode, CodeChef, and GeeksforGeeks
+
+### Certifications
 - **Java SE 8 Professional**
 - **OCI Associate**
 - **GDSC Cloud Track**
@@ -118,28 +163,34 @@ I'm a Java Backend Engineer based in Bangalore, India, currently building enterp
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Dashboard
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=gokulsaraswat&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokulsaraswat&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
+  <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile details" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=gokulsaraswat&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=gokulsaraswat&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub stats" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=gokulsaraswat&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img width="49%" src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repos per language" />
+  <img width="49%" src="./profile-summary-card-output/github_dark/3-stats.svg" alt="Stats summary" />
 </p>
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm always happy to talk about backend engineering, system design, Java, APIs, debugging ugly production issues, or building things that actually scale.
+I'm always happy to connect on backend engineering, Java, system design, production debugging, distributed systems, or interesting engineering problems.
 
 <p align="left">
   <a href="mailto:gokulsaraswat07@gmail.com">📫 Email</a> •
   <a href="https://github.com/gokulsaraswat">GitHub</a> •
   <a href="https://www.linkedin.com/in/gokul-saraswat/">LinkedIn</a> •
-  <a href="https://dev.to/gokulsaraswat">Dev.to</a>
+  <a href="https://dev.to/gokulsaraswat">Dev.to</a> •
+  <a href="https://www.gokulsaraswat.me">Portfolio</a>
 </p>
 
 <p align="center">
